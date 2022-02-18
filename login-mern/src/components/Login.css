@@ -1,0 +1,30 @@
+.texto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor {
+    justify-content:center;
+    align-items: center;
+    width: 600px;
+    
+}
+
+.color1{
+    border-radius: 20px;
+    background-color: #052C48;
+    color: #FFF;
+}
+
+.bordes{
+    border-radius: 20px;
+}
+
+.letra{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.letra2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
