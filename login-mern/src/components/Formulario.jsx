@@ -27,6 +27,7 @@ const Formulario = ({ setName, setPassword, enviarDatos }) => {
                                 type="password"
                                 onChange={(e) => setPassword(e.target.value)}
                                 placeholder="******"
+                                required
                             />
                         </div>
                     </div>
